@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"titulo": "O Hobbit",
+		"autor": "J R R Tolkien",
+		"preco": "R$: 40.00",
+		"capa": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=7187896&qld=90&l=430&a=-1"
+	},
+	{
+		"id": 2,
+		"titulo": "Senhor Dos Aneis",
+		"autor": "J R R Tolkien",
+		"preco": "R$: 40.00",
+		"capa": "https://images-na.ssl-images-amazon.com/images/I/61VLT3aMviL._SX321_BO1,204,203,200_.jpg"
+	},
+	{
+		"id": 3,
+		"titulo": "O Silmarillion",
+		"autor": "J R R Tolkien",
+		"preco": "R$: 40.00",
+		"capa": "https://images-na.ssl-images-amazon.com/images/I/51HQyPBZpzL._SX328_BO1,204,203,200_.jpg"
+	},
+	{
+		"id": 4,
+		"titulo": "A Arte da Guerra",
+		"autor": "Sun Tzu",
+		"preco": "R$: 40.00",
+		"capa": "https://img.travessa.com.br/livro/BA/25/250907ff-ea3b-4f89-89a0-133788fb506f.jpg"
+	},
+	{
+		"id": 5,
+		"titulo": "O Milagre Da Manhã",
+		"autor": "Elrod,Hal",
+		"preco": "R$: 40.00",
+		"capa": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9358803&qld=90&l=430&a=-1=1008160982"
+	},
+	{
+		"id": 6,
+		"titulo": "Do Mil Ao Milhão",
+		"autor": "Nigro,Thiago",
+		"preco": "R$: 40.00",
+		"capa": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=10501613&qld=90&l=430&a=-1=1006831025"
+	}
+]
